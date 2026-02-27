@@ -2,7 +2,7 @@
 // Key Concepts: Character Array (char[]), Array Indexing, Two-Pointer Technique,
 //               Time Complexity Awareness, Data Structure: char[]
 
-public class PalindromeChecker3 {
+public class PalindromeChecker5 {
     public static void main(String[] args) {
         String word = "level";
         char[] chars = word.toCharArray();

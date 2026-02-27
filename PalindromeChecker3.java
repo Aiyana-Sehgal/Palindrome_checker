@@ -2,7 +2,7 @@
 // Key Concepts: Loop (for loop), String Immutability, String Concatenation (+),
 //               equals() Method, Data Structure: String
 
-public class PalindromeChecker2 {
+public class PalindromeChecker3 {
     public static void main(String[] args) {
         String word = "racecar";
         String reversed = "";
