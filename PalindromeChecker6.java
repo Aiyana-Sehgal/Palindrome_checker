@@ -4,7 +4,7 @@
 
 import java.util.Stack;
 
-public class PalindromeChecker4 {
+public class PalindromeChecker6 {
     public static void main(String[] args) {
         String word = "noon";
         Stack<Character> stack = new Stack<>();
